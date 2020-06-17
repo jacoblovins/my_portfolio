@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
     <link rel="stylesheet" href="style.css">
 
-    <title>About Me</title>
+    <title>Contact</title>
   </head>
   <body>
     <header>
@@ -26,15 +26,26 @@
       </div>
     </header>
 
-    <main id="aboutme" class="container">
+    <main id="mainheader" class="container">
       <div class="row">
         <div class="col-md-12">
-          <h1>About me</h1>
+          <h1>Contact</h1>
         </div> 
       </div>
-        <img src="images/cafe-racer.jpg" alt="cat">
-        <p>fu manchu vincent price dali des lynam toothbrush educated testosterone trophy sam elliott groucho marx luxurious mustachio um what a bounder pit fighter lando calrissian inspector clouseau tony stark charming villain old west sheriff john cleese mouthbrow leader of men</p>  
-        <p>hairy lipsum handlebar stiff upper lip van dyke bruce forsyth ned flanders walrus testosterone trophy groucho-a-like cappuccino collector caterpillar cripes alpha trion 118 118 nigel mansell</p>
+      <form>
+        <div class="form-group">
+            <label for="usr">Name:</label>
+            <input type="text" class="form-control" id="usr" placeholder="John Smith">
+        </div>
+        <div class="form-group">
+            <label for="exampleInputEmail1">Email address</label>
+            <input type="email" class="form-control" id="exampleInputEmail1" placeholder="example@gmail.com" aria-describedby="emailHelp">
+        </div>
+        <div class="form-group">
+            <label for="exampleFormControlTextarea1">Message</label>
+            <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+          </div>
+        </form>
     </main>
 
     <footer>

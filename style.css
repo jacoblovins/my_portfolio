@@ -58,10 +58,10 @@ main {
     border: 1px solid #efefef;
 }
 
-#aboutme {
-    border: 1px solid #ccc;
+#mainheader {
+    border: 1px solid #d9b08c;
     background: url(images/leather.jpg);
-    background-size: 730px 500px;
+    background-size: 730px 520px;
     width: 60%;
     float: left;
     margin-left: 60px;
@@ -70,7 +70,7 @@ main {
     padding: 10px 40px 10px 40px;
 }
 
-#aboutme h1 {
+#mainheader h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color:  #d9b08c;
     border-bottom: 2px solid #ccc;
@@ -86,6 +86,26 @@ img {
     height: auto;
     float: left;
     margin-right: 25px;
+}
+
+.col-md-6 img {
+    position: relative;
+    border: 2px solid #d9b08c;
+    margin-bottom: 45px;
+    height: 250px;
+    width: 310px;
+}
+
+.col-md-6 p {
+    position: absolute;
+    bottom: 40px;
+    background: url(images/plate.jpeg);
+    text-align: center;
+    width: 310px;
+    color: black;
+    padding: 10px;
+    color:  #d9b08c;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 footer {

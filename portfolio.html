@@ -1,65 +1,78 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <!-- Bootstrap CSS -->
+    <!-- CSS links (reset, bootstrap, main stylesheet) -->
     <link rel="stylesheet" href="reset.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
     <link rel="stylesheet" href="style.css">
 
     <title>Portfolio</title>
   </head>
+  
   <body>
-    <header>
-      <div class="row">
-        <div id="yourname" class="col-sm-6">
-            <a href="index.html">Jacob Lovins</a>
-        </div>
-        <nav class="col-sm-6">
+    <!-- Header bar and logo -->
+    <header class="fixed-top">
+      <nav class="navbar navbar-expand-md navbar-light bg-black">
+        <a id="yourname" href="index.html">Jacob Lovins</a>
+        
+        <!-- Collapsible links and hamburger button in header -->
+        <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+          <span>
+            <img src="images/pngbarn.png" alt="menu">
+          </span>
+        </button>
+        <div class="collapse navbar-collapse justify-content-end" id="navbarCollapse">
+          <div class="navbar-nav">
             <a href="./index.html">About</a>
             <a href="./portfolio.html">Portfolio</a>
             <a href="./contact.html">Contact</a>
-        </nav>
-      </div>
+          </div>
+        </div>
+      </nav>
     </header>
 
-    <main id="mainheader" class="container">
+    <!-- Main content box name -->
+    <main id="maincontent" class="container">
+      <section class="row">
+        <div class="col-md-12">
+          <h1>Portfolio</h1>
+        </div> 
+      </section>
+
+      <!-- Main content box images and labels -->
+      <section id="portfolio-box">
         <div class="row">
-            <div class="col-md-12">
-            <h1>Portfolio</h1>
-            </div> 
+          <div class="col-md-6">
+            <img src="images/harleyracer.jpeg" alt="bacon">
+            <p>Bacon</p>
+          </div>
+          <div class="col-md-6">
+            <img src="images/caferacer1.jpg" alt="bacon">
+            <p>Bacon</p>
+          </div>
         </div>
         <div class="row">
-            <div class="col-md-6">
-                <img src="images/harleyracer.jpeg" alt="bacon">
-                <p>Bacon</p>
-            </div>
-            <div class="col-md-6">
-                <img src="images/caferacer1.jpg" alt="bacon">
-                <p>Bacon</p>
-            </div>
+          <div class="col-md-6">
+            <img src="images/caferacer2.jpg" alt="bacon">
+            <p>Bacon</p>
+          </div>
+          <div class="col-md-6">
+            <img src="images/caferacer5.jpeg" alt="bacon">
+            <p>Bacon</p>
+          </div>
         </div>
         <div class="row">
-            <div class="col-md-6">
-                <img src="images/caferacer2.jpg" alt="bacon">
-                <p>Bacon</p>
-            </div>
-            <div class="col-md-6">
-                <img src="images/caferacer5.jpeg" alt="bacon">
-                <p>Bacon</p>
-            </div>
+          <div class="col-md-6">
+            <img src="images/caferacer6.jpeg" alt="bacon">
+            <p>Bacon</p>
+          </div>
         </div>
-        <div class="row">
-            <div class="col-md-6">
-                <img src="images/caferacer6.jpeg" alt="bacon">
-                <p>Bacon</p>
-            </div>
-        </div>
+      </section>
     </main>
 
+    <!-- Footer with copyright -->
     <footer>
       <div class="container">
         <div class="row">
@@ -70,10 +83,8 @@
       </div>
     </footer>
 
-    <!-- Optional JavaScript -->
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <!-- JavaScript for Hamburger Button -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
   </body>
 </html>

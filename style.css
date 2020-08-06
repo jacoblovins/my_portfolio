@@ -59,7 +59,7 @@ header {
 #maincontent {
     border: 1px solid #d9b08c;
     background: url(images/leather.jpg);
-    background-size: 860px 700px;
+    background-size: 1000px 800px;
     width: 70%;
     max-width: 70%;
     margin: 150px 70px 100px 70px;
@@ -77,20 +77,20 @@ header {
 
 /* About Me page */
 #aboutMePic { 
-    width: 300px;
+    width: 320px;
     height: auto;
     float: left;
     margin-right: 25px;
 }
 #socialMedia {
-    width: 250px;
+    width: 300px;
     background: rgb(140, 139, 139);
     border: 2px solid #d9b08c;
 }
 #socialRow {
     flex-wrap: nowrap;
 }
-.col-md-4 img {
+.col-md-3 img {
     width: 50px;
     height: auto;
 }

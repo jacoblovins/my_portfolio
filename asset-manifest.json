@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.bbd5451b.chunk.css",
-    "main.js": "/static/js/main.b6240af3.chunk.js",
-    "main.js.map": "/static/js/main.b6240af3.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e7bd7d91.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e7bd7d91.js.map",
-    "static/js/2.a48c610a.chunk.js": "/static/js/2.a48c610a.chunk.js",
-    "static/js/2.a48c610a.chunk.js.map": "/static/js/2.a48c610a.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.83d3ae5726fe5f7cbf8e5b245a663960.js": "/precache-manifest.83d3ae5726fe5f7cbf8e5b245a663960.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.bbd5451b.chunk.css.map": "/static/css/main.bbd5451b.chunk.css.map",
-    "static/js/2.a48c610a.chunk.js.LICENSE.txt": "/static/js/2.a48c610a.chunk.js.LICENSE.txt",
-    "static/media/container.css": "/static/media/leather.18632baf.jpg",
-    "static/media/projectCard.css": "/static/media/plate.f399e0b5.jpeg"
+    "main.css": "/my_portfolio/static/css/main.a5da2fa7.chunk.css",
+    "main.js": "/my_portfolio/static/js/main.b6240af3.chunk.js",
+    "main.js.map": "/my_portfolio/static/js/main.b6240af3.chunk.js.map",
+    "runtime-main.js": "/my_portfolio/static/js/runtime-main.b9a97ea5.js",
+    "runtime-main.js.map": "/my_portfolio/static/js/runtime-main.b9a97ea5.js.map",
+    "static/js/2.a48c610a.chunk.js": "/my_portfolio/static/js/2.a48c610a.chunk.js",
+    "static/js/2.a48c610a.chunk.js.map": "/my_portfolio/static/js/2.a48c610a.chunk.js.map",
+    "index.html": "/my_portfolio/index.html",
+    "precache-manifest.2df00956657ad9fb20914304d065d3a9.js": "/my_portfolio/precache-manifest.2df00956657ad9fb20914304d065d3a9.js",
+    "service-worker.js": "/my_portfolio/service-worker.js",
+    "static/css/main.a5da2fa7.chunk.css.map": "/my_portfolio/static/css/main.a5da2fa7.chunk.css.map",
+    "static/js/2.a48c610a.chunk.js.LICENSE.txt": "/my_portfolio/static/js/2.a48c610a.chunk.js.LICENSE.txt",
+    "static/media/container.css": "/my_portfolio/static/media/leather.18632baf.jpg",
+    "static/media/projectCard.css": "/my_portfolio/static/media/plate.f399e0b5.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e7bd7d91.js",
+    "static/js/runtime-main.b9a97ea5.js",
     "static/js/2.a48c610a.chunk.js",
-    "static/css/main.bbd5451b.chunk.css",
+    "static/css/main.a5da2fa7.chunk.css",
     "static/js/main.b6240af3.chunk.js"
   ]
 }

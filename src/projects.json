@@ -1,9 +1,9 @@
 [
     {
-        "deployLink": "https://chandler8.github.io/Musical-Mood-Generator/",
-        "imageLink": "images/chandler8.github.io_Musical-Mood-Generator_.png",
-        "name": "Mood Generator",
-        "gitLink": "https://github.com/jacoblovins/Musical-Mood-Generator"
+        "deployLink": "https://jacoblovins.github.io/code_quiz/",
+        "imageLink": "images/quiz.png",
+        "name": "POC-IT",
+        "gitLink": "https://github.com/jacoblovins/code_quiz"
     },
     {
         "deployLink": "https://rocky-reaches-21290.herokuapp.com/",
@@ -12,16 +12,16 @@
         "gitLink": "https://github.com/jacoblovins/reality-tasks"
     },
     {
-        "deployLink": "https://jacoblovins.github.io/day_planner/",
-        "imageLink": "images/planner1.png",
-        "name": "Day Planner",
-        "gitLink": "https://github.com/jacoblovins/day_planner"
+        "deployLink": "https://chandler8.github.io/Musical-Mood-Generator/",
+        "imageLink": "images/chandler8.github.io_Musical-Mood-Generator_.png",
+        "name": "Mood Generator",
+        "gitLink": "https://github.com/jacoblovins/Musical-Mood-Generator"
     },
     {
-        "deployLink": "https://jacoblovins.github.io/weather_dashboard/",
-        "imageLink": "images/weather1.png",
-        "name": "Weather Dashboard",
-        "gitLink": "https://github.com/jacoblovins/weather_dashboard"
+        "deployLink": "https://jacoblovins.github.io/day_planner/",
+        "imageLink": "images/planner1.png",
+        "name": "TRAIN-IT",
+        "gitLink": "https://github.com/jacoblovins/day_planner"
     },
     {
         "deployLink": "https://github.com/jacoblovins/employee_database",
@@ -30,9 +30,9 @@
         "gitLink": "https://github.com/jacoblovins/employee_database"
     },
     {
-        "deployLink": "https://jacoblovins.github.io/code_quiz/",
-        "imageLink": "images/quiz1.png",
-        "name": "Code Quiz",
-        "gitLink": "https://github.com/jacoblovins/code_quiz"
+        "deployLink": "https://jacoblovins.github.io/weather_dashboard/",
+        "imageLink": "images/weather1.png",
+        "name": "Google Books Search",
+        "gitLink": "https://github.com/jacoblovins/weather_dashboard"
     }
 ]

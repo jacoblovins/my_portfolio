@@ -21,7 +21,7 @@ function Links() {
                     </a>
                 </div>
                 <div className="col-md-3" id="resume">
-                    <a href="images/My Resume3.1.pdf" target="_blank">
+                    <a href="images/resume.pdf" target="_blank">
                         <img src="images/icons8-resume-60.png" alt="Facebook logo"/>
                     </a>
                 </div>

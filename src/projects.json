@@ -1,9 +1,9 @@
 [
     {
-        "deployLink": "https://jacoblovins.github.io/code_quiz/",
-        "imageLink": "images/quiz.png",
+        "deployLink": "https://poc-it.herokuapp.com/",
+        "imageLink": "images/homepage.png",
         "name": "POC-IT",
-        "gitLink": "https://github.com/jacoblovins/code_quiz"
+        "gitLink": "https://github.com/jeashwor/POC-IT"
     },
     {
         "deployLink": "https://rocky-reaches-21290.herokuapp.com/",
@@ -18,10 +18,10 @@
         "gitLink": "https://github.com/jacoblovins/Musical-Mood-Generator"
     },
     {
-        "deployLink": "https://jacoblovins.github.io/day_planner/",
-        "imageLink": "images/planner1.png",
+        "deployLink": "https://jacoblovins.github.io/TRAIN-IT/",
+        "imageLink": "images/classify.png",
         "name": "TRAIN-IT",
-        "gitLink": "https://github.com/jacoblovins/day_planner"
+        "gitLink": "https://github.com/jacoblovins/TRAIN-IT"
     },
     {
         "deployLink": "https://github.com/jacoblovins/employee_database",
@@ -30,9 +30,9 @@
         "gitLink": "https://github.com/jacoblovins/employee_database"
     },
     {
-        "deployLink": "https://jacoblovins.github.io/weather_dashboard/",
-        "imageLink": "images/weather1.png",
+        "deployLink": "https://gentle-ocean-48210.herokuapp.com/",
+        "imageLink": "images/googleBooksSearch.png",
         "name": "Google Books Search",
-        "gitLink": "https://github.com/jacoblovins/weather_dashboard"
+        "gitLink": "https://github.com/jacoblovins/google_books_search"
     }
 ]
